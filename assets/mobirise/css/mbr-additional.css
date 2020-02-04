@@ -31,6 +31,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -866,6 +869,33 @@ section.form .container {
 }
 #header1-1 .mbr-section-text {
   font-size: 20px;
+}
+#features13-r .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+}
+#features13-r .mbr-section-text {
+  color: #2c3e50;
+}
+#features8-t .lead {
+  color: #9fa3a7;
+}
+#features8-t .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features8-t .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+}
+#features8-u .lead {
+  color: #9fa3a7;
+}
+#features8-u .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features8-u .mbr-section-title B {
+  font-family: 'Raleway', sans-serif;
+}
+#features8-u .mbr-section-text {
+  color: #2c3e50;
 }
 #header9-2 .elements-content {
   padding-bottom: 50px;

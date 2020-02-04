@@ -20,12 +20,14 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#232323"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 28,
+    "uniqCompNum": 34,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png"
   },
@@ -168,7 +170,7 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "Customer Success",
           "text": "Buscamos el éxito&nbsp;de nuestros&nbsp;Clientes.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONOCE MÁS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"index.html#tabs2-q\" data-toolbar=\"-mbrBtnMove\">CONOCE MÁS</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -183,9 +185,9 @@
             "showHeaderText": true,
             "showImages": true,
             "showTitles": true,
-            "tabs": "5",
+            "tabs": "2",
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
             "parallax": true,
@@ -205,13 +207,16 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/image1.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1920x1357.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "title11": "LO QUE ES&nbsp;",
           "title12": "BOOST YOUR RANKING",
           "title13": "BOOST YOUR RANKING",
-          "title21": "ENTÉRATE",
+          "title21": "APLICARLO",
           "title22": "BOOTSTRAP BUILDER",
           "title23": "BOOTSTRAP BUILDER",
           "title31": "BOOST YOUR RANKING",
@@ -223,7 +228,7 @@
           "title61": "TRENDY WEBSITE BLOCKS",
           "title62": "TRENDY WEBSITE BLOCKS",
           "title63": "TRENDY WEBSITE BLOCKS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-q\" aria-expanded=\"false\">CONOZCAMOS</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-q\" aria-expanded=\"false\">PORQUÉ?</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-q\" aria-expanded=\"true\">SUSCRIPCIONES</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-q\">Awesome</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-q\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-q\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-q\" aria-expanded=\"false\">CONOZCAMOS</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-q\" aria-expanded=\"true\">PORQUÉ?</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-q\" aria-expanded=\"false\">SUSCRIPCIONES</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-q\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-q\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-q\">Beautiful</a></li>",
           "media11": {
             "iconFont": {
               "active": true,
@@ -425,7 +430,7 @@
           "text11": "Customer Success (éxito del cliente) es una estrategia que surgió con las empresas de SaaS (software como servicio) para lograr mantener a sus clientes por más tiempo en su cartera y así lograr más ingresos. Esta es una táctica muy eficiente, ya que está comprobado que las empresas que tienen los ingresos más altos y crecen más rápido poseen fuertes estrategias de Customer Success.",
           "text12": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
           "text13": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
-          "text21": "¿Por qué Customer Success? Porque es siete veces más caro el costo entre conquistar un nuevo cliente que el que genera retener un cliente antiguo.\n<br>\n<br>Entonces, ¿por qué gastamos la mayor parte de nuestro tiempo y nuestros mejores recursos tratando de atraer y venderle a un nuevo cliente, si con el mismo esfuerzo e inversión podemos retener siete clientes?",
+          "text21": "<b>¿Por qué Customer Success?</b> Porque es siete veces más caro el costo entre conquistar un nuevo cliente que el que genera retener un cliente antiguo.\n<br>\n<br>Entonces, ¿por qué gastamos la mayor parte de nuestro tiempo y nuestros mejores recursos tratando de atraer y venderle a un nuevo cliente, si con el mismo esfuerzo e inversión podemos retener siete clientes?",
           "text22": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
           "text23": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
           "text31": "El contexto es claro y se repite en casi todo tipo de negocio: los clientes fieles, cuyas compras son recurrentes, generan más de 80% del ingreso total de cualquier negocio. Esto se repite en hoteles, comercios electrónicos y restaurantes.\n<br>\n<br>Los dueños de negocios que no se han dado cuenta de esto están perdiendo dinero. Esta proporción es cada vez más evidente y los emprendedores y clientes están aprovechando la oportunidad para crear mejores negocios.\n<br>\n<br>La gran tendencia del mercado en la actualidad es ofrecer como servicios por suscripción lo que antes eran productos o proyectos.\n<br>\n<br>Hoy en día no compramos DVD, nos suscribimos a Netflix; no compramos vino, nos suscribimos a WineClub y no compramos softwares que se instalan, sino que nos suscribimos a herramientas en la nube, como RD Station, por ejemplo.\n<br>\n<br>En esta época de negocios por suscripción, la relación con el cliente pasó a tener más importancia que nunca y esto dio inicio a un nuevo movimiento.\n<br>\n<br>Pero antes de sumarte a esta nueva tendencia o mejorar tu estrategia, deberías tener en claro quien es tu Buyer Persona. ¿Todavía no lo tienes definido? Entérate todo lo que necesitas saber para optimizar tus acciones y alcanzar tus resultados en nuestro Kit: Buyer Personas y Proceso de Compra",
@@ -448,7 +453,29 @@
           "_anchor": "tabs2-q"
         },
         {
-          "_styles": {},
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">CONOCER MÁS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-text": {
+              "color": "#2c3e50"
+            }
+          },
           "_params": {
             "showImages": true,
             "showNumber": true,
@@ -475,7 +502,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -484,17 +511,165 @@
               "title": ""
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "title1": "<b>la economía de las suscripciones</b>",
+          "subtitle1": "Subscription Economy",
           "caption1": "El contexto es claro y se repite en casi todo tipo de negocio: los clientes fieles, cuyas compras son recurrentes, generan más de 80% del ingreso total de cualquier negocio. Esto se repite en hoteles, comercios electrónicos y restaurantes.\n<br>\n<br>Los dueños de negocios que no se han dado cuenta de esto están perdiendo dinero. Esta proporción es cada vez más evidente y los emprendedores y clientes están aprovechando la oportunidad para crear mejores negocios.\n<br>\n<br>La gran tendencia del mercado en la actualidad es ofrecer como servicios por suscripción lo que antes eran productos o proyectos.\n<br>\n<br>Hoy en día no compramos DVD, nos suscribimos a Netflix; no compramos vino, nos suscribimos a WineClub y no compramos softwares que se instalan, sino que nos suscribimos a herramientas en la nube, como RD Station, por ejemplo.\n<br>\n<br>En esta época de negocios por suscripción, la relación con el cliente pasó a tener más importancia que nunca y esto dio inicio a un nuevo movimiento.\n<br>\n<br>Pero antes de sumarte a esta nueva tendencia o mejorar tu estrategia, deberías tener en claro quien es tu Buyer Persona. ¿Todavía no lo tienes definido? Entérate todo lo que necesitas saber para optimizar tus acciones y alcanzar tus resultados en nuestro Kit: Buyer Personas y Proceso de Compra",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">watch now</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONOCE MÁS</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "features13",
           "_anchor": "features13-r"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showNumber": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x540.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "<b>La diferencia en los modelos</b>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "La gran diferencia entre un modelo de negocio de servicio por suscripción y un proyecto o producto es su flujo de ingresos. Ya no se factura una gran cantidad de dinero al conquistar un cliente, sino que ahora se gana poco a poco, mensualmente.\n<br>\n<br>Son cada vez menos frecuentes los clientes que aceptan pagar un alto precio por licencias vitalicias de software, o las marcas que entregan sus cuentas a agencias de marketing con grandes presupuestos aprobados.\n<br>\n<br>Aparentemente esto no es una buena opción para el vendedor. ¿Por qué dejar de ganarnos una buena cantidad de dinero ahora para ganar poco a poco?\n<br>\n<br>Resulta que, actualmente, los clientes tienen mucha información, la competencia es alta y el costo de cambio es bajo. Ya no se aceptan contratos leoninos, dependencia de proveedores, ni tampoco grandes costos de implementación.\n<br>Pero el mercado no solo se está adaptando solo por causa de esto, sino también porque es posible producir mucho más dinero con modelos de suscripción.\n<br>Para eso, es necesario retener al cliente. Hay que hacer que se quede con tu solucion por muchos meses y años, y que pague fielmente todos los meses. La única forma de lograr tal hazaña es generarle éxito al cliente, y para eso necesitas del Customer Success como guía en tu empresa.",
+          "number1": "1",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features8",
+          "_anchor": "features8-t"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-text": {
+              "color": "#2c3e50"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showNumber": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb11.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<b>La solución es el éxito del cliente</b>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Ten en claro esto: necesitas generar éxitos a tus clientes constantemente. Éxito para ellos, no para ti. Hacer que tu cliente consiga resultados ante el problema u oportunidad que lo motivó a contactarte será lo único que le hará desembolsar dinero para pagarte todos los meses sin quejarse.\n<br>\n<br>Si vendes un software, el éxito del cliente no es que él use la aplicación perfectamente, ni que se inicie sesión tres veces al día, ni que cree tres nuevos usuarios por mes. Tampoco que él considere que tu interfaz es excelente y amigable, ni siquiera que piense que tu producto es el mejor de todos.\n<br>\n<br>Para él, el éxito es alcanzar y sobrepasar los objetivos que tenía cuando comenzó a buscar una solución como la tuya.\n<br>\n<br>Si es una herramienta de negocios y los ingresos/ganancias de tu cliente no aumentan, ni disminuyen sus costos y riesgos, entonces, tal vez ya se trate de un futuro ex-cliente.\n<br>\n<br>“Ah, pero el cliente no usó bien mi producto”, “el cliente no realizó la implementación completa”, “él no modificó los procesos necesarios en su empresa”, “su analista no se tomó las cosas en serio”.\n<br>\n<br>Si pensaste en algunas excusas como las anteriores, muy bien, estás empezando a hallar la solución, estas empezando a entender lo que es Customer Success.\n<br>\n<br>Todo lo que le impide al cliente extraer valor de tu producto o servicio es tu problema, no suyo. No importa si no es lo que vendes, al final, a quien le cancelan el contrato es a ti.",
+          "number1": "1",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features8",
+          "_anchor": "features8-u"
         },
         {
           "_styles": {
