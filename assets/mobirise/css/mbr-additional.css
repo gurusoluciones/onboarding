@@ -34,6 +34,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -870,11 +871,14 @@ section.form .container {
 #header1-1 .mbr-section-text {
   font-size: 20px;
 }
+#tabs2-q .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+}
 #features13-r .mbr-section-title {
   font-family: 'Raleway', sans-serif;
 }
 #features13-r .mbr-section-text {
-  color: #2c3e50;
+  color: #232323;
 }
 #features8-t .lead {
   color: #9fa3a7;
@@ -884,6 +888,9 @@ section.form .container {
 }
 #features8-t .mbr-section-title {
   font-family: 'Raleway', sans-serif;
+}
+#features8-t .mbr-section-text {
+  color: #232323;
 }
 #features8-u .lead {
   color: #9fa3a7;
@@ -895,7 +902,7 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
 }
 #features8-u .mbr-section-text {
-  color: #2c3e50;
+  color: #000000;
 }
 #header9-2 .elements-content {
   padding-bottom: 50px;

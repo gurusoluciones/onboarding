@@ -179,7 +179,12 @@
           "_anchor": "header1-1"
         },
         {
-          "_styles": {},
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
           "_params": {
             "showHeader": true,
             "showHeaderText": true,
@@ -473,7 +478,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-text": {
-              "color": "#2c3e50"
+              "color": "#232323"
             }
           },
           "_params": {
@@ -513,7 +518,7 @@
           },
           "title1": "<b>la economía de las suscripciones</b>",
           "subtitle1": "Subscription Economy",
-          "caption1": "El contexto es claro y se repite en casi todo tipo de negocio: los clientes fieles, cuyas compras son recurrentes, generan más de 80% del ingreso total de cualquier negocio. Esto se repite en hoteles, comercios electrónicos y restaurantes.\n<br>\n<br>Los dueños de negocios que no se han dado cuenta de esto están perdiendo dinero. Esta proporción es cada vez más evidente y los emprendedores y clientes están aprovechando la oportunidad para crear mejores negocios.\n<br>\n<br>La gran tendencia del mercado en la actualidad es ofrecer como servicios por suscripción lo que antes eran productos o proyectos.\n<br>\n<br>Hoy en día no compramos DVD, nos suscribimos a Netflix; no compramos vino, nos suscribimos a WineClub y no compramos softwares que se instalan, sino que nos suscribimos a herramientas en la nube, como RD Station, por ejemplo.\n<br>\n<br>En esta época de negocios por suscripción, la relación con el cliente pasó a tener más importancia que nunca y esto dio inicio a un nuevo movimiento.\n<br>\n<br>Pero antes de sumarte a esta nueva tendencia o mejorar tu estrategia, deberías tener en claro quien es tu Buyer Persona. ¿Todavía no lo tienes definido? Entérate todo lo que necesitas saber para optimizar tus acciones y alcanzar tus resultados en nuestro Kit: Buyer Personas y Proceso de Compra",
+          "caption1": "El contexto es claro y se repite en casi todo tipo de negocio: los clientes fieles, cuyas compras son recurrentes, generan más de 80% del ingreso total de cualquier negocio. Esto se repite en hoteles, comercios electrónicos y restaurantes.\n<br>\n<br>Los dueños de negocios que no se han dado cuenta de esto están perdiendo dinero. Esta proporción es cada vez más evidente y los emprendedores y clientes están aprovechando la oportunidad para crear mejores negocios.\n<br>\n<br>La gran tendencia del mercado en la actualidad es ofrecer como servicios por suscripción lo que antes eran productos o proyectos.\n<br>\n<br>Hoy en día no compramos DVD, nos suscribimos a Netflix; no compramos vino, nos suscribimos a WineClub y no compramos softwares que se instalan, sino que nos suscribimos a herramientas en la nube, como RD Station, por ejemplo.\n<br>\n<br>En esta época de negocios por suscripción, la relación con el cliente pasó a tener más importancia que nunca y esto dio inicio a un nuevo movimiento.\n<br>\n<br><br>",
           "number1": "01",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"index.html#features8-t\" data-toolbar=\"-mbrBtnMove\">CONOCE MÁS</a>",
           "alias": "colorm/components",
@@ -534,6 +539,9 @@
             ".mbr-section-title": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-text": {
+              "color": "#232323"
             }
           },
           "_params": {
@@ -561,7 +569,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x540.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -571,7 +579,7 @@
             }
           },
           "title1": "<b>La diferencia en los modelos</b>",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "sUSCRIPCIÓN vs PLAZO DEFINIDO",
           "caption1": "La gran diferencia entre un modelo de negocio de servicio por suscripción y un proyecto o producto es su flujo de ingresos. Ya no se factura una gran cantidad de dinero al conquistar un cliente, sino que ahora se gana poco a poco, mensualmente.\n<br>\n<br>Son cada vez menos frecuentes los clientes que aceptan pagar un alto precio por licencias vitalicias de software, o las marcas que entregan sus cuentas a agencias de marketing con grandes presupuestos aprobados.\n<br>\n<br>Aparentemente esto no es una buena opción para el vendedor. ¿Por qué dejar de ganarnos una buena cantidad de dinero ahora para ganar poco a poco?\n<br>\n<br>Resulta que, actualmente, los clientes tienen mucha información, la competencia es alta y el costo de cambio es bajo. Ya no se aceptan contratos leoninos, dependencia de proveedores, ni tampoco grandes costos de implementación.\n<br>Pero el mercado no solo se está adaptando solo por causa de esto, sino también porque es posible producir mucho más dinero con modelos de suscripción.\n<br>Para eso, es necesario retener al cliente. Hay que hacer que se quede con tu solucion por muchos meses y años, y que pague fielmente todos los meses. La única forma de lograr tal hazaña es generarle éxito al cliente, y para eso necesitas del Customer Success como guía en tu empresa.",
           "number1": "1",
           "title2": "Responsive",
@@ -589,7 +597,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-black\" href=\"index.html#features8-u\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -610,7 +618,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-text": {
-              "color": "#2c3e50"
+              "color": "#000000"
             }
           },
           "_params": {
