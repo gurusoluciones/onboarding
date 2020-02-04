@@ -458,7 +458,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">CONOCER MÁS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features13-r\" data-toolbar=\"-mbrBtnMove\">CONOCER MÁS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -515,7 +515,7 @@
           "subtitle1": "Subscription Economy",
           "caption1": "El contexto es claro y se repite en casi todo tipo de negocio: los clientes fieles, cuyas compras son recurrentes, generan más de 80% del ingreso total de cualquier negocio. Esto se repite en hoteles, comercios electrónicos y restaurantes.\n<br>\n<br>Los dueños de negocios que no se han dado cuenta de esto están perdiendo dinero. Esta proporción es cada vez más evidente y los emprendedores y clientes están aprovechando la oportunidad para crear mejores negocios.\n<br>\n<br>La gran tendencia del mercado en la actualidad es ofrecer como servicios por suscripción lo que antes eran productos o proyectos.\n<br>\n<br>Hoy en día no compramos DVD, nos suscribimos a Netflix; no compramos vino, nos suscribimos a WineClub y no compramos softwares que se instalan, sino que nos suscribimos a herramientas en la nube, como RD Station, por ejemplo.\n<br>\n<br>En esta época de negocios por suscripción, la relación con el cliente pasó a tener más importancia que nunca y esto dio inicio a un nuevo movimiento.\n<br>\n<br>Pero antes de sumarte a esta nueva tendencia o mejorar tu estrategia, deberías tener en claro quien es tu Buyer Persona. ¿Todavía no lo tienes definido? Entérate todo lo que necesitas saber para optimizar tus acciones y alcanzar tus resultados en nuestro Kit: Buyer Personas y Proceso de Compra",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONOCE MÁS</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"index.html#features8-t\" data-toolbar=\"-mbrBtnMove\">CONOCE MÁS</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -589,7 +589,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -663,7 +663,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
