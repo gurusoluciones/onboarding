@@ -1061,22 +1061,33 @@ section.form .container {
 
 
 
+
+
 #header11-o H1 {
   font-family: 'Raleway', sans-serif;
 }
-#header9-12 .elements-content {
+#header11-o P {
+  color: #f1c40f;
+}
+#header9-14 .elements-content {
   padding-bottom: 50px;
 }
-#header9-12 .mbr-section-subtitle {
+#header9-14 .mbr-section-subtitle {
   letter-spacing: 2px;
   margin-bottom: 10px;
   font-weight: 700;
 }
-#header9-12 .mbr-section-title,
-#header9-12 .tab-pane {
+#header9-14 .mbr-section-title,
+#header9-14 .tab-pane {
   color: #000;
 }
-#header9-12 .mbr-section-title {
+#header9-14 .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+}
+#header9-14 .header-text {
+  font-family: 'Raleway', sans-serif;
+}
+#header9-14 P {
   font-family: 'Raleway', sans-serif;
 }
 #features16-p .mbr-section-title {
@@ -1085,11 +1096,12 @@ section.form .container {
   text-transform: uppercase;
   font-family: 'Raleway', sans-serif;
   font-size: 80px;
+  color: #f1c40f;
 }
 #features16-p .mbr-section-subtitle {
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #fff;
+  color: #f1c40f;
 }
 #features15-13 .mbr-section-title {
   font-weight: 700;
