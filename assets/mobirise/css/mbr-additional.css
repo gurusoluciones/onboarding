@@ -1,7 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
 
 
 
@@ -22,11 +20,11 @@ textarea,
 .mbr-section-text,
 .mbr-company .list-group-text,
 .panel-body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .alert,
 .mbr-section-title,
@@ -34,7 +32,7 @@ textarea,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Arvo', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -48,7 +46,7 @@ textarea,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Arvo', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .btn {
   border-radius: 2.6em;
@@ -62,22 +60,22 @@ textarea,
 .nav-tabs .nav-link,
 .mbr-testimonial .card-block,
 .table th {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Arvo', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Arvo', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-style: normal;
 }
 .bg-primary {
@@ -525,9 +523,6 @@ textarea,
 .mbr-gallery-filter li:hover {
   color: #f39c12;
 }
-.scrollToTop_wraper {
-  display: none;
-}
 /*colorM*/
 /*nav-tabs*/
 .header5 .nav-tabs .nav-link:after {
@@ -637,11 +632,11 @@ blockquote {
 }
 /*countdown*/
 .countdown .period {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-style: normal;
 }
 .countdown .number {
-  font-family: 'Arvo', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .countdown1 .number-wrap {
   border-color: #f39c12;
@@ -672,7 +667,7 @@ blockquote {
   color: #f39c12;
 }
 .shop1 .shop-item-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .shop1 .mbr-gallery-item:hover .item_overlay {
   background: #f39c12;
@@ -686,7 +681,7 @@ blockquote {
 .person-info .title3,
 .team1 .title4,
 .person-info .title4 {
-  font-family: 'Arvo', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .team1 .subtitle1,
 .person-info .subtitle1,
@@ -696,7 +691,7 @@ blockquote {
 .person-info .subtitle3,
 .team1 .subtitle4,
 .person-info .subtitle4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .team1 .text1,
 .person-info .text1,
@@ -706,7 +701,7 @@ blockquote {
 .person-info .text3,
 .team1 .text4,
 .person-info .text4 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .person-info .subtitle1,
 .person-info .subtitle2,
@@ -715,19 +710,19 @@ blockquote {
   color: #f39c12;
 }
 .animated-bg1 .text {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .features9 .timeline-panel h4 {
-  font-family: 'Arvo', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .features9 .timeline-panel p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .features9 .date-normal p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .features9 .date-inverted p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .form-control {
   background: #f5f5f5;
@@ -795,7 +790,7 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
 }
 #features13-r .mbr-section-text {
-  color: #232323;
+  color: #333333;
 }
 #features13-r .mbr-section-title B {
   font-size: 36px;
@@ -804,17 +799,20 @@ section.form .container {
   font-size: 36px;
   font-family: 'Raleway', sans-serif;
 }
-#features14-1k .mbr-section-title {
+#features13-1m .mbr-section-text {
+  color: #333333;
+}
+#features13-1o .mbr-section-title {
   font-family: 'Raleway', sans-serif;
 }
-#features14-1k .mbr-section-title B {
-  font-size: 36px;
+#features13-1o .mbr-section-text {
+  color: #333333;
 }
 #content5-17 .mbr-section-title {
   font-family: 'Raleway', sans-serif;
 }
 #content5-17 P {
-  font-size: 20px;
+  font-size: 25px;
   font-family: 'Raleway', sans-serif;
 }
 #header7-a .mbr-section-subtitle {
@@ -829,6 +827,7 @@ section.form .container {
   font-weight: bold;
   font-family: 'Raleway', sans-serif;
   text-align: left;
+  font-size: 84px;
 }
 #header7-b .mbr-section-subtitle {
   text-transform: uppercase;
@@ -1005,6 +1004,7 @@ section.form .container {
 
 #header11-o H1 {
   font-family: 'Raleway', sans-serif;
+  font-size: 84px;
 }
 #header11-o P {
   color: #f1c40f;
