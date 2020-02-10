@@ -114,7 +114,7 @@
           ],
           "_name": "header1",
           "_anchor": "header1-1",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header1 mbr-section-with-arrow mbr-parallax-background mbr-after-navbar\" data-rv-view=\"1\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1136.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(44, 62, 80);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-sm-10 col-sm-offset-1\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"2012\">Customer Success</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"2013\">Buscamos el éxito&nbsp;de nuestros&nbsp;Clientes.</p>\n                    <div class=\"mbr-section-btn\" style=\"text-align: right;\"><a class=\"btn btn-primary btn-text mbr-editable-button\" href=\"index.html#tabs2-q\" code-editable-id=\"2014\">CONOCE MÁS</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#tabs2-q\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header1 mbr-section-with-arrow mbr-parallax-background mbr-after-navbar\" data-rv-view=\"1\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1136.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(44, 62, 80);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-sm-10 col-sm-offset-1\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"2298\">Customer Success</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"2299\">Buscamos el éxito&nbsp;de nuestros&nbsp;Clientes.</p>\n                    <div class=\"mbr-section-btn\" style=\"text-align: right;\"><a class=\"btn btn-primary btn-text mbr-editable-button\" href=\"index.html#tabs2-q\" code-editable-id=\"2300\">CONOCE MÁS</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#tabs2-q\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n.lead {\n  color: #93a3a7;\n  font-style: italic;\n}\n.mbr-section-title {\n  font-family: 'Raleway', sans-serif;\n  font-size: 100px;\n}\n.mbr-section-text {\n  font-size: 20px;\n}\n",
@@ -458,8 +458,8 @@
               "title": ""
             }
           },
-          "title1": "<b>la economía de las suscripciones</b>",
-          "subtitle1": "Subscription Economy",
+          "title1": "<b>La economía de las suscripciones</b>",
+          "subtitle1": "VENTA POR SUSCRIPCIÓN",
           "caption1": "El contexto es claro y se repite en casi todo tipo de negocio: los clientes fieles, cuyas compras son recurrentes, generan más de 80% del ingreso total de cualquier negocio. Esto se repite en hoteles, comercios electrónicos y restaurantes.\n<br>\n<br>Los dueños de negocios que no se han dado cuenta de esto están perdiendo dinero. Esta proporción es cada vez más evidente y los emprendedores y clientes están aprovechando la oportunidad para crear mejores negocios.\n<br>\n<br>La gran tendencia del mercado en la actualidad es ofrecer como servicios por suscripción lo que antes eran productos o proyectos.\n<br>\n<br>Hoy en día no compramos DVD, nos suscribimos a Netflix; no compramos vino, nos suscribimos a WineClub y no compramos softwares que se instalan, sino que nos suscribimos a herramientas en la nube, como RD Station, por ejemplo.\n<br>\n<br>En esta época de negocios por suscripción, la relación con el cliente pasó a tener más importancia que nunca y esto dio inicio a un nuevo movimiento.\n<br>\n<br><br>",
           "number1": "01",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"index.html#features8-t\" data-toolbar=\"-mbrBtnMove\">CONOCE MÁS</a>",
@@ -539,7 +539,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-black\" href=\"index.html#features8-u\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-black\" href=\"index.html#features8-u\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-down mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -597,7 +597,7 @@
           "title1": "<b>La solución es el éxito del cliente</b>",
           "subtitle1": "¿CUÁL ES LA SOLUCIÓN?",
           "caption1": "Ten en claro esto: necesitas generar éxitos a tus clientes constantemente. Éxito para ellos, no para ti. Hacer que tu cliente consiga resultados ante el problema u oportunidad que lo motivó a contactarte será lo único que le hará desembolsar dinero para pagarte todos los meses sin quejarse.\n<br>\n<br>Si vendes un software, el éxito del cliente no es que él use la aplicación perfectamente, ni que se inicie sesión tres veces al día, ni que cree tres nuevos usuarios por mes. Tampoco que él considere que tu interfaz es excelente y amigable, ni siquiera que piense que tu producto es el mejor de todos.\n<br>\n<br>Para él, el éxito es alcanzar y sobrepasar los objetivos que tenía cuando comenzó a buscar una solución como la tuya.\n<br>\n<br>Si es una herramienta de negocios y los ingresos/ganancias de tu cliente no aumentan, ni disminuyen sus costos y riesgos, entonces, tal vez ya se trate de un futuro ex-cliente.\n<br>\n<br>“Ah, pero el cliente no usó bien mi producto”, “el cliente no realizó la implementación completa”, “él no modificó los procesos necesarios en su empresa”, “su analista no se tomó las cosas en serio”.\n<br>\n<br>Si pensaste en algunas excusas como las anteriores, muy bien, estás empezando a hallar la solución, estas empezando a entender lo que es Customer Success.\n<br>\n<br>Todo lo que le impide al cliente extraer valor de tu producto o servicio es tu problema, no suyo. No importa si no es lo que vendes, al final, a quien le cancelan el contrato es a ti.",
-          "number1": "1",
+          "number1": "2",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
@@ -660,14 +660,17 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/03.jpg",
+              "src": "@PROJECT_PATH@/assets/images/03-1.jpeg",
               "class": "",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "title": "¿Qué es un Customer Success Manager?",
-          "subtitle": "mobirise builder",
-          "text": "Un CSM o Customer Success Manager es la persona encargada de mantener el contacto con los clientes de una empresa. Su función principal es la de asegurarse de que la experiencia del cliente con el producto sea la mejor posible y estar siempre disponible para solucionar cualquier incidencia o duda que pudiera surgirle.",
+          "subtitle": "DEFICICIÓN",
+          "text": "Un CSM o Customer Success Manager es la persona encargada de mantener el contacto con los clientes de una empresa. Su función principal es la de asegurarse de que la experiencia del cliente con el producto sea la mejor posible y estar siempre disponible para solucionar cualquier incidencia o duda que pudiera surgirle.<br><br>Como decíamos antes, un Customer Success Manager es un experto en el producto y, por tanto, sabe cómo exprimir al máximo el potencial de la herramienta y conseguir los mejores resultados. \n<br>\n<br>Nuestros CSM tratan con cientos de test cada día por lo que tienen mucha experiencia y han trabajado con multitud de configuraciones e ideas, tanto disparatadas como geniales. Todos ellos tienen una gran visión analítica y podrán ser de mucha ayuda a la hora de detectar posibles problemas de diseño o usabilidad en tu sitio web, así como ser una gran fuente de ideas de test nuevas o incluso ayudarte con el propio análisis de los resultados de los test una vez ya realizados. \n<br>\n<br>Cada uno de nuestros clientes es diferente y, por tanto, no tienen las mismas necesidades. Existen algunos más avanzados que no necesitan de un CSM que les guie y otros que necesitan de la ayuda y consejo de un CSM. Si, por ejemplo, no dispones de tiempo suficiente para dedicarle al testeo web, nuestros compañeros pueden ayudarte generando ideas de optimización y lanzando test y personalizaciones por ti, de forma que no tengas que preocuparte de nada. Además, si bien la herramienta de AB Tasty es muy intuitiva y fácil de utilizar gracias a su editor gráfico, habrá situaciones en las que contar con la asesoría de un CSM te será de gran utilidad, especialmente cuando realizas test complejos que requieren de modificaciones del código de la página. \n<br>\n<br>Al contar con un CSM, tanto para ayudarte puntualmente con ciertas cuestiones, como para realizar todas tus campañas de CRO, te estarás asegurando de que le sacas el máximo partido a tu herramienta de A/B testing. Realizarás más test, aumentará la frecuencia con la que mejores tu tasa de optimización y, lo más importante, comenzarás a seguir una estrategia Test&amp;Learn basada en el testeo y optimización&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
