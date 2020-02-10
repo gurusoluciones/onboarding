@@ -1000,11 +1000,9 @@ section.form .container {
 
 
 
-
-
 #header11-o H1 {
   font-family: 'Raleway', sans-serif;
-  font-size: 84px;
+  font-size: 80px;
 }
 #header11-o P {
   color: #f1c40f;
@@ -1030,32 +1028,59 @@ section.form .container {
 #header9-14 P {
   font-family: 'Raleway', sans-serif;
 }
-#features16-p .mbr-section-title {
-  font-weight: 700;
-  letter-spacing: .5vw;
-  text-transform: uppercase;
-  font-family: 'Raleway', sans-serif;
-  font-size: 80px;
-  color: #f1c40f;
+#header9-1z .elements-content {
+  padding-bottom: 50px;
 }
-#features16-p .mbr-section-subtitle {
+#header9-1z .mbr-section-subtitle {
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+#header9-1z .mbr-section-title,
+#header9-1z .tab-pane {
+  color: #000;
+}
+#content3-1w .mbr-section-title,
+#content3-1w .mbr-section-subtitle {
+  text-align: center;
+}
+#features2-1p .mbr-section-title {
+  font-weight: 700;
+}
+#features2-1p .mbr-section-subtitle {
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #f1c40f;
-}
-#features15-13 .mbr-section-title {
-  font-weight: 700;
-  font-family: 'Raleway', sans-serif;
-  font-size: 48px;
-}
-#features15-13 .display-6 {
-  text-transform: none;
-  letter-spacing: 0px;
-  font-weight: 400;
   color: #fff;
 }
-#features15-13 .mbr-cards-row {
-  margin-top: 40px;
+#features8-20 .lead {
+  color: #9fa3a7;
+}
+#features8-20 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features8-20 .mbr-section-title {
+  font-size: 36px;
+}
+#features7-21 .lead {
+  color: #9fa3a7;
+}
+#features7-21 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features7-21 .mbr-section-title B {
+  font-size: 36px;
+}
+#features8-22 .lead {
+  color: #9fa3a7;
+}
+#features8-22 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features8-22 .mbr-section-title B {
+  font-size: 36px;
+}
+#features8-22 .mbr-section-text {
+  color: #000000;
 }
 #menu-1i .hide-buttons .nav-btn {
   display: none !important;
