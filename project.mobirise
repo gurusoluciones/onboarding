@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 75,
+    "uniqCompNum": 76,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png"
   },
@@ -881,7 +881,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo9.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -1466,6 +1466,9 @@
             },
             ".mbr-section-title": {
               "font-size": "36px"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
             }
           },
           "_params": {
@@ -1501,7 +1504,7 @@
           },
           "title1": "<b>Llamada de Bienvenida</b>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "<b>Viene del “Flujo de Venta”\n<br>Criterio :</b> Todas las ventas de cliente NUEVO que hayan pasado a etapa “Entregada a producción” <br>&nbsp;<b>Objetivo:</b> Alinear la expectativa del cliente en su etapa de compra \n<br>\n<br><b>El objetivo de la llamada de bienvenida es garantizar que el cliente tenga claros 3 aspectos \n</b><br>\n<br>1.- Funcionalidad del producto \n<br>2. Timing de entrega del producto x país \n<br>3.- Facturación &nbsp;<br>",
           "number1": "1",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
@@ -1525,6 +1528,47 @@
           ],
           "_name": "features8",
           "_anchor": "features8-20"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Llenado del Drive",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Mobirise?</a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p>",
+          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion1",
+          "_anchor": "accordion1-23"
         },
         {
           "_styles": {
@@ -1741,7 +1785,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo9.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -1758,7 +1802,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_customHTML": "<section class=\"menu1\" data-rv-view=\"60\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\">\n        <div class=\"container-fluid\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/logo.png\" alt=\"Mobirise\"></a>\n                        \n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <span class=\"hamburger-icon\"></span>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"> <li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#header1-1\" code-editable-id=\"2686\">\n                        CUSTOMER SUCCESS</a></li> <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"2687\">\n                        NUESTRAS SOLUCIONES</a>\n                        <div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://forums.mobirise.com/\" code-editable-id=\"2688\">GOOGLE MY BUSINESS</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2689\">PÁGINAS WEB</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2690\">FIGURACIONES</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2691\">TRÁFICO GARANTIZADO</a></div></li> <li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"Onboarding.html#features16-p\" aria-expanded=\"true\" code-editable-id=\"2692\">\n                        ONBOARDING</a>  <div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Onboarding.html#header9-14\" code-editable-id=\"2693\">\n                        ¿QUÉ ES?</a> <a class=\"dropdown-item mbr-editable-menu-item\" href=\"Onboarding.html#features16-p\" code-editable-id=\"2694\">\n                        ¿PORQUE LO HAREMOS?</a> <a class=\"dropdown-item mbr-editable-menu-item\" href=\"Onboarding.html#features15-13\" code-editable-id=\"2695\">\n                        ¿CÓMO LO HAREMOS</a> <div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"Onboarding.html#header9-14\" aria-expanded=\"false\" code-editable-id=\"2696\">\n                        b</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2697\">\n                        c</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2698\">\n                        Contact forms</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2699\">\n                        Image gallery</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2700\">\n                        Mobile menu</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2701\">\n                        Google maps</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2702\">\n                        Social buttons</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2703\">\n                        Google fonts</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2704\">\n                        Video background</a></div></div><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2705\">\n                        Host anywhere</a></div></li>  <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"2706\">\n                        EL EQUIPO</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://forums.mobirise.com/\" code-editable-id=\"2707\">\n                        ONBOARDING</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2708\">\n                        CAMPAÑAS DIGITALES</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2709\">\n                        CONTACTOS</a></div></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <span class=\"close-icon\"></span>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_customHTML": "<section class=\"menu1\" data-rv-view=\"60\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\">\n        <div class=\"container-fluid\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/logo.png\" alt=\"Mobirise\"></a>\n                        \n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <span class=\"hamburger-icon\"></span>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"> <li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#header1-1\" code-editable-id=\"2917\">\n                        CUSTOMER SUCCESS</a></li> <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"2918\">\n                        NUESTRAS SOLUCIONES</a>\n                        <div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://forums.mobirise.com/\" code-editable-id=\"2919\">GOOGLE MY BUSINESS</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2920\">PÁGINAS WEB</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2921\">FIGURACIONES</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2922\">TRÁFICO GARANTIZADO</a></div></li> <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"Onboarding.html#features16-p\" aria-expanded=\"false\" code-editable-id=\"2923\">\n                        ONBOARDING</a>  <div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Onboarding.html#header9-14\" code-editable-id=\"2924\">\n                        ¿QUÉ ES?</a> <a class=\"dropdown-item mbr-editable-menu-item\" href=\"Onboarding.html#features16-p\" code-editable-id=\"2925\">\n                        ¿PORQUE LO HAREMOS?</a> <a class=\"dropdown-item mbr-editable-menu-item\" href=\"Onboarding.html#features15-13\" code-editable-id=\"2926\">\n                        ¿CÓMO LO HAREMOS</a> <div class=\"dropdown\"><a class=\"dropdown-item dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"Onboarding.html#header9-14\" aria-expanded=\"false\" code-editable-id=\"2927\">\n                        PROCESOS CLAVE</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2928\">\n                        LLAMADA DE BIENVENIDA</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2929\">\n                        LLAMADA DE ENTREGA</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2930\">\n                        WORK FLOW</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2931\">\n                        Video background</a></div></div><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2932\">\n                        Host anywhere</a></div></li>  <li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"2933\">\n                        EL EQUIPO</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://forums.mobirise.com/\" code-editable-id=\"2934\">\n                        ONBOARDING</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2935\">\n                        CAMPAÑAS DIGITALES</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"2936\">\n                        CONTACTOS</a></div></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <span class=\"close-icon\"></span>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
           "_customCSS": ".hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-caption {\n  color: #ffffff;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #ffffff;\n}\n.link, .dropdown-item {\n  color: #ffffff;\n}\n.link {\n  font-size: 0.875rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 0.948rem;\n}\n.link:hover, .link:focus {\n  color: #f39c12;\n}\n.dropdown-item:hover::before, .dropdown-item:focus::before {\n  background: #f39c12;\n}\n.dropdown-item:hover, .dropdown-item:focus {\n  color: #ffffff;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #1a242f;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #273646!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #2c3e50;\n}\n.bg-color.transparent .link {\n  color: #ffffff;\n  transition: none;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #f39c12;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n  color: #f39c12!important;\n}\n",
           "_customTemplate": true,
           "_anchor": "menu-1i",
@@ -1845,7 +1889,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo9.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -1989,7 +2033,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo9.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -2093,7 +2137,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo9.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -2592,7 +2636,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo9.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"

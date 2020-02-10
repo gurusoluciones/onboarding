@@ -1061,6 +1061,9 @@ section.form .container {
 #features8-20 .mbr-section-title {
   font-size: 36px;
 }
+#features8-20 .mbr-section-text {
+  color: #000000;
+}
 #features7-21 .lead {
   color: #9fa3a7;
 }
