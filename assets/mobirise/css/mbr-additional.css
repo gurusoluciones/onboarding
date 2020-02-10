@@ -30,10 +30,6 @@
 
 
 
-
-
-
-
 body,
 input,
 textarea,
@@ -906,35 +902,6 @@ section.form .container {
 #features8-u .mbr-section-text {
   color: #000000;
 }
-#header9-2 .elements-content {
-  padding-bottom: 50px;
-}
-#header9-2 .mbr-section-subtitle {
-  letter-spacing: 2px;
-  margin-bottom: 10px;
-  font-weight: 700;
-}
-#header9-2 .mbr-section-title,
-#header9-2 .tab-pane {
-  color: #000;
-}
-#header9-2 .mbr-section-title {
-  font-family: 'Raleway', sans-serif;
-}
-#features15-3 .mbr-section-title {
-  font-weight: 700;
-  font-family: 'Raleway', sans-serif;
-  font-size: 48px;
-}
-#features15-3 .display-6 {
-  text-transform: none;
-  letter-spacing: 0px;
-  font-weight: 400;
-  color: #fff;
-}
-#features15-3 .mbr-cards-row {
-  margin-top: 40px;
-}
 #header7-a .mbr-section-subtitle {
   text-transform: uppercase;
   color: #9fa3a7;
@@ -946,6 +913,7 @@ section.form .container {
   color: #242424;
   font-weight: bold;
   font-family: 'Raleway', sans-serif;
+  text-align: left;
 }
 #header7-b .mbr-section-subtitle {
   text-transform: uppercase;
@@ -1022,18 +990,6 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
 }
 #team1-k H1 {
-  font-family: 'Raleway', sans-serif;
-}
-#features16-9 .mbr-section-title {
-  font-weight: 700;
-  letter-spacing: .5vw;
-  text-transform: uppercase;
-  font-family: 'Raleway', sans-serif;
-}
-#features16-9 .mbr-section-subtitle {
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  color: #fff;
   font-family: 'Raleway', sans-serif;
 }
 #content3-i .mbr-section-title,
